@@ -24,7 +24,7 @@ public class Main {
             System.out.print(array[i] + ",");
         }
 
-        System.out.print("\n");
+        System.out.println();
 
 
     }
